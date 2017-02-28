@@ -23,10 +23,10 @@ Un soutien budgétaire pourrait être apporté par des sponsors.
   Concevoir et gérer une application web qui gère le covoiturage pour les étudiants, basé sur la solidarité.
 
   On distinguera les utilisateurs possibles : 
-    -> les passagers
-    -> les conducteurs
-    -> Les sponsors
-    -> Les administrateurs du site
+ - les passagers
+ - les conducteurs
+ - Les sponsors
+ - Les administrateurs du site
     
 Le site approtera aux utilisateurs plusieurs avantages : 
     Une diminution des frais liés à l'utilisation de la voiture.
@@ -37,18 +37,18 @@ Le site approtera aux utilisateurs plusieurs avantages :
 
 ## Expression des besoins
 
-  1.Environnement
+  1. Environnement
   
   Ce site de covoiturage sera utlisé par les étudiants d'UPSSITECH.
   
-  2.Description des fonctions
+  2. Description des fonctions
   
-  F1 : Inscription
-  F2 : Authentification
-  F3 : Gestion des profils (utilisateurs, sponsors, visiteurs, administrateurs)
-  F4 : Gestion des trajets
-  F5 : Gestion des réservations
-  F6 : Gestion des voitures
+  - F1 : Inscription
+  - F2 : Authentification
+  - F3 : Gestion des profils (utilisateurs, sponsors, visiteurs, administrateurs)
+  - F4 : Gestion des trajets
+  - F5 : Gestion des réservations
+  - F6 : Gestion des voitures
   
 ## Fonctions
 
