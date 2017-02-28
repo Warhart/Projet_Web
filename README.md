@@ -12,3 +12,16 @@ L'objectif sera de réaliser un site web permettant aux utilisateurs inscrits de
 
   En cours de réalisation...
   
+# Fonctions
+
+F1 : Inscription
+ Permet à un utilisateur de s'inscrire dans la base de données en tant que chauffeur ou bien en tant que passager.
+ 
+F2 : Authentification
+  Authentifie l'utilisateur par son login et son mot de passe.
+
+F3 : 
+
+F4 : 
+
+F5 : 
