@@ -53,15 +53,19 @@ Le site approtera aux utilisateurs plusieurs avantages :
 ## Fonctions
 
 F1 : Inscription
- Permet à un visiteur de s'inscrire dans la base de données pour devenir membre du site et qu'il puisse utiliser le servicce de covoiturage si il fait partie de l'UPSSITECH.
+
+Permet à un visiteur de s'inscrire dans la base de données pour devenir membre du site et qu'il puisse utiliser le servicce de covoiturage si il fait partie de l'UPSSITECH.
  
 F2 : Authentification
-  Pour accéder aux fonctionnalités de covoiturage, il est nécéssaire de s'enregistrer si on n'a pas de compte ou bien de se connecter si on est membre. On utilisera un login et un mot de passe.
+
+Pour accéder aux fonctionnalités de covoiturage, il est nécéssaire de s'enregistrer si on n'a pas de compte ou bien de se connecter si on est membre. On utilisera un login et un mot de passe.
 
 F3 : Gérer les profils
-  L'administrateur a le droit de supprimer un compte ou bien de la placer dans une liste noire. Il permet à chacun des membres de faire sa propre gestion de compte. Il sera possible de modifier les informations personnelles ou les préférences.
+  
+L'administrateur a le droit de supprimer un compte ou bien de la placer dans une liste noire. Il permet à chacun des membres de faire sa propre gestion de compte. Il sera possible de modifier les informations personnelles ou les préférences.
 
 F4 : Gestion des trajets
+  
   Ajouter un trajet :
 l'utilisateur de type "conducteur" publie un trajet en saisissant les informations sur son trajet et il faut qu’il ai une voiture renseignée sur le site.
 
@@ -78,6 +82,7 @@ Le conducteur peut consulter les réservations de ses trajets ainsi que les pass
 Le passager peut supprimer la demande de réservation. Le conducteur peut supprimer de manière implicite les demandes en supprimant le trajet.
 
 F5 : Gestion des réservations
+  
   Ajout réservation :
 L'utilisateur de type conducteur accepte les demandes de réservations sur ses trajets en ajoutant les passagers sur son trajets. Si la capacité de la voiture est pleine, alors il ne peut plus ajouter de passagers et les demandes de réservation sur ce trajets sont désactivées.
 
@@ -85,6 +90,7 @@ L'utilisateur de type conducteur accepte les demandes de réservations sur ses t
 Un utilisateur de type passager peut modifier sa réservation en modifiant les conditions, ou bien supprimer sa réservation.
 
 F6 : Gestion des voitures
+  
   l'utilisateur de type conducteur gère l'ajout de ses voitures, la modification ainsi la suppression.
   
 ## Contraintes  
